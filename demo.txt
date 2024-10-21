@@ -1,0 +1,39 @@
+use the 1 L of water.
+take a maggie packets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  A. Create and build the job in Jenkins. B. Build a pipeline of jobs using maven
+  1 go and pipeline to create and use hello world try scipt and save.
+  2 build
+
+  B 1 there is jenakin file with java program in git hub go there.
+  2
