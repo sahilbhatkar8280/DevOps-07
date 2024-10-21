@@ -31,6 +31,10 @@ take a maggie packets.
 
 
 
+
+
+
+
   A. Create and build the job in Jenkins. B. Build a pipeline of jobs using maven
   1 go and pipeline to create and use hello world try scipt and save.
   2 build
@@ -92,3 +96,16 @@ http://localhost:8080/buildByToken/buildWithParameters?token=54321&job=<name_of_
 &whoami=pranit&filename=test.txt
 
 
+To understand Continuous Integration.(exp 4)
+1. Create a and build a freestyle project in jenkins by copying your git hub
+repository url from your account. 
+2. Build this project and check this console output on jenkins.
+
+
+
+
+1 create freestyle proj
+2 source code management git enter details
+3 main branch
+4 build step execute windows batch command
+5 javac demo.java java demo
