@@ -62,7 +62,6 @@ j4unit and maven jenkins(xip file req junit_demo)
 
 
 Demonstrate how to:
-
 1. Install the Role-Based Authorization Strategy plugin.
 2. Create and configure the required roles.
 3. Assign users to these roles.
@@ -87,7 +86,7 @@ browsers or scrip
 4 create token
 5 Now write declarative Jenkins pipeline . Here in this
 pipeline i am printing the username who is building it and
-creating a file. Click on Save which is in mav1 repo
+creating a file. Click on Save which is in (mav1 repo)
 6: go to plugins . Install a plugin from available plugins
 called `Build Authorization Token Roo
 7Now use the URL provided below and open it in
@@ -101,9 +100,6 @@ To understand Continuous Integration.(exp 4)
 1. Create a and build a freestyle project in jenkins by copying your git hub
 repository url from your account. 
 2. Build this project and check this console output on jenkins.
-
-
-
 
 1 create freestyle proj
 2 source code management git enter details
