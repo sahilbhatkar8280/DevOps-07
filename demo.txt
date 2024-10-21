@@ -55,7 +55,8 @@ j4unit and maven jenkins(xip file req junit_demo)
 1 make sure you install java and maven
 2 add path in jenkins in tools in jdk installation and maven installation
 3 download testng plugin
-4 add path in junit  directory (use custom workplace).
+ freestyle proj
+4 add path in junit  directory advanced(use custom workplace).
 5 add build step(invoke top level maven target) (advance POM file path) 
 6 build
 
