@@ -36,4 +36,59 @@ take a maggie packets.
   2 build
 
   B 1 there is jenakin file with java program in exp4 repository git hub go there.
-  2 build pipeline directly use program which save in jenkin repo.
+  2 build pipeline 
+  3 use program which save in mav1 repo place in pipeline script. 
+  4 build it
+5 see pipeline console output
+second way
+1 pipeline script from hcm in pipeline
+2 git url all 
+3 buiold
+
+
+j4unit and maven jenkins(xip file req junit_demo)
+
+1 make sure you install java and maven
+2 add path in jenkins in tools in jdk installation and maven installation
+3 download testng plugin
+4 add path in junit  directory (use custom workplace).
+5 add build step(invoke top level maven target) (advance POM file path) 
+6 build
+
+
+Demonstrate how to:
+
+1. Install the Role-Based Authorization Strategy plugin.
+2. Create and configure the required roles.
+3. Assign users to these roles.
+4. Verify that each role has the correct permissions.
+
+1 role based autherization plugin is req
+2 go in manage and assign sole
+3 add role give permissions 
+4 create users
+5 assign role
+6 lon in
+
+Create a new Jenkins job (or use an existing one) and enable
+remote build triggers. 2) Generate a unique authentication token for the job. 3) Demonstrate the correct syntax and parameters for a cURL
+request that triggers the Jenkins build remotely.
+
+1 :click on new Item on admin dashboard and create pipeline projec
+2 :Add some build parameters by selecting `This project is parameterized
+3Then select `Trigger build remotely` . This option will
+enable you to build the job by using the URL only other
+browsers or scrip
+4 create token
+5 Now write declarative Jenkins pipeline . Here in this
+pipeline i am printing the username who is building it and
+creating a file. Click on Save which is in mav1 repo
+6: go to plugins . Install a plugin from available plugins
+called `Build Authorization Token Roo
+7Now use the URL provided below and open it in
+another browser . The moment you opened the URL , this will
+automatically trigger to start the build process of the job
+http://localhost:8080/buildByToken/buildWithParameters?token=54321&job=<name_of_ur_job>
+&whoami=pranit&filename=test.txt
+
+
