@@ -35,5 +35,5 @@ take a maggie packets.
   1 go and pipeline to create and use hello world try scipt and save.
   2 build
 
-  B 1 there is jenakin file with java program in git hub go there.
-  2
+  B 1 there is jenakin file with java program in exp4 repository git hub go there.
+  2 build pipeline directly use program which save in jenkin repo.
